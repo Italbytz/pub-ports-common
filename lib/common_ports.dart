@@ -1,5 +1,3 @@
-library common_ports;
-
 export 'src/command.dart';
 export 'src/crud_repository.dart';
 export 'src/data_sink.dart';
