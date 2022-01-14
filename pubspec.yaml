@@ -1,11 +1,11 @@
-name: explicit_architecture
-description: Explicit Architecture is a set of helpful abstract classes to use with Herberto Graça's Explicit Architecture.
+name: common_ports
+description: Common Ports is a set of helpful abstract classes to use with Hexagonal Architecture.
 version: 0.0.1
-homepage: https://github.com/RobinNunkesser/explicitarchitecture-pub
+homepage: https://github.com/Italbytz/pub-ports-common
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0 <2.0.0"
+  flutter: ">=1.17.0"
 
 dependencies:
   flutter:

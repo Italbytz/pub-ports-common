@@ -1,6 +1,6 @@
-# Explicit Architecture
+# Common Ports
 
-Small set of helper classes to use with Herberto Graça's Explicit Architecture .
+Small set of helper classes to use with Hexagonal Architecture.
 
 ## Getting Started
 
