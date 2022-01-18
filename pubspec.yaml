@@ -1,6 +1,6 @@
 name: common_ports
 description: Common Ports is a set of helpful abstract classes to use with Hexagonal Architecture.
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/Italbytz/pub-ports-common
 
 environment:
